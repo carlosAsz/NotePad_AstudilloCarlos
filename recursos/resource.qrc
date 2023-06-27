@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abrir-documento.png</file>
+        <file>disco-flexible.png</file>
+        <file>nuevo-documento.png</file>
+        <file>resource.qrc</file>
+        <file>salida.png</file>
+        <file>392530_add_create_cross_new_plus_icon.png</file>
+        <file>4831037_cancel_circle_close_delete_exit_icon.png</file>
+        <file>8664907_folder_open_document_icon.png</file>
+        <file>9054919_bx_save_icon.png</file>
+        <file>2250029_lined_notepad_notes_pad_paper_icon.png</file>
+    </qresource>
+</RCC>
